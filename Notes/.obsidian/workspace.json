@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7e5ab5ff4f72bb75",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d5f08bfb20d745",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc715f403f8a9198",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15f3b83bb6159dc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c423da5387845928",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66b863569a830720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c42f74f7ae2d9919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd9e3f4533046679",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d88e4b0a55e94c9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c793b0c78bb5a6e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dcd4991058a0abe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learning obsidian/productive lesson from college.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for productive lesson from college"
+            }
+          },
+          {
+            "id": "672167e3d6cc93ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "learning obsidian/productive lesson from college.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from productive lesson from college"
+            }
+          },
+          {
+            "id": "d0255e5ac7fc59e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "788c9f1a724f1e85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learning obsidian/productive lesson from college.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of productive lesson from college"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cc715f403f8a9198",
+  "lastOpenFiles": [
+    "_utilities/learning obsidian/Markdown Cheatsheet.md",
+    "Daily Diary/Diwali Holidays.md",
+    "Programing/Neovim/Neovim for beginners.md",
+    "Programing/Neovim/Neovim Shortcuts.md",
+    "_utilities/learning obsidian/my first note.md",
+    "Thoughts/Quotes.md",
+    "_utilities/learning obsidian/Another note.md",
+    "Daily Diary",
+    "Programing/Git/Git Cheat-sheet.md",
+    "Programing/Programming_extras/Pasted image 20251002171545.png",
+    "Programing/Concepts/UTF-8(Unicode transformation Format).md",
+    "Programing/Concepts",
+    "Thoughts",
+    "Programing/Neovim",
+    "Programing/Programming_extras/Pasted image 20251002181737.png",
+    "Programing/Git",
+    "_utilities/learning obsidian/productive lesson from college.md",
+    "_utilities/learning obsidian/Productivity lessons from School.md",
+    "_utilities",
+    "_templates",
+    "Programing/Programming_extras",
+    "Programing",
+    "_utilities/learning obsidian/reddiculus.md",
+    "_utilities/learning obsidian",
+    "999 Templates/Daily note template.md",
+    "Welcome.md"
+  ]
+}
