@@ -36,4 +36,38 @@
 ###### 2.Load balance process is very efficiently.If some router break the internet won't stop only it's efficiency will decrease ![[Pasted image 20260214234232.png]]
 ###### 3.The world is connected by underwater wires ![[Pasted image 20260214234321.png]]
 ###### ![[Pasted image 20260214235445.png]] ![[Pasted image 20260215000842.png]]
-###### https://www.youtube.com/watch?v=zN8YNNHcaZc&list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM&index=1800s
+######  ![[Pasted image 20260219200752.png]] This wire was cut by a ship and it lead to turn off of internet for many countries
+###### ![[Pasted image 20260219201026.png]] This cables also get stolen ![[Pasted image 20260219201120.png]] ![[Pasted image 20260219201142.png]]
+###### There are cables on land of Russia which are not shown in this image as only underwater => which are fibre optic cable which uses light speed for being fast 
+###### Don't use copper cable as length increases it's error increase by square so not used
+## How a packet moves over internet
+###### ![[Pasted image 20260219201845.png]]
+###### Package => switch(understands it should go to internet(i.e router))  => router(see packages destinations is not in this LAN1 so go to internet) =>Then it has many router option but where to go from here decided by "Router table"
+###### ![[Pasted image 20260219204039.png]] This table has all possible paths ![[Pasted image 20260219204147.png]] This operation called as "Forwarding" => ![[Pasted image 20260219204301.png]]
+###### Router pre-decide some paths as not an option(example path back is not option as going back is not forwarding) called as router filter ![[Pasted image 20260219204516.png]] ![[Pasted image 20260219204600.png]] ![[Pasted image 20260219204713.png]] and so on till reaches a switch of some other LAN where it originally has to reach
+###### Note path chosen by the router is not always the most sortest(looking) path it is the path suggested by the algorithm which as many variables ( router want to delevier the package to its destination as soon as possible ) ![[Pasted image 20260219205209.png]] other variable like traffic(busy path means long queue) called congestion control
+###### We can communicate with distance devices other side of the word via internet in milliseconds
+###### Therefore, internet is the network of networks. ![[Pasted image 20260219210459.png]]
+###### It is the connection of all LANs![[Pasted image 20260219210235.png]]
+###### Generally, there is a cloud(![[Pasted image 20260219210720.png]])
+## Internet to computer
+###### ![[Pasted image 20260219210933.png]]
+###### Here only router as only 1 device and not need a switch
+###### ![[Pasted image 20260219211403.png]]
+###### If it is a continuous file(massive file) it is not in single go it is continuous send ![[Pasted image 20260219211757.png]] ![[Pasted image 20260219211905.png]] ![[Pasted image 20260219211928.png]] The size of this packages varies as per our speed of the internet
+###### The special Computers(server) has very powerful PC(Ryzen Threadripper) Which handles all requests for this website![[Pasted image 20260219212415.png]] There are many server to handle all requests ![[Pasted image 20260219212548.png]] .According to your location router choices closest server to your home=> all serves for same data serves the same data no matter where you connect
+## WAN(wide area network)
+###### ![[Pasted image 20260219213312.png]]
+###### example have a company has many offices around the world we want them to be connected.
+###### ![[Pasted image 20260219213802.png]] This is a special network between our LANs![[Pasted image 20260219213926.png]]
+###### ![[Pasted image 20260219214012.png]] This LANs are already connected as internet
+######  If able to communicate over internet why need a WAN ??
+###### =>![[Pasted image 20260219215012.png]] needs security over
+###### => Inter LAN transfer are have no problem as it is private ![[Pasted image 20260219215917.png]] No guarantee of secure transfer 
+###### There are many methods to setup a WAN. Most popular is using VPN ![[Pasted image 20260219220110.png]] It simply encrypts our data before sending it over the internet ![[Pasted image 20260219220755.png]] ![[Pasted image 20260219220929.png]] Still ![[Pasted image 20260219221008.png]]
+###### The packages it encrypted only if it has to other site(part of our WAN) and decryption key are with that site(LAN) so it can read the packet Thus, it is called as Site-to-Site VPN![[Pasted image 20260219221445.png]] analogous to putting it in a lock and giving the receiver the key to open it. => even then there are possible loss but not leak of data (encrypted data is non-understandable data) ![[Pasted image 20260219225443.png]] ![[Pasted image 20260219225546.png]]
+###### ![[Pasted image 20260219225647.png]] is it secure to use internet as service providers(Whatsapp, Facebook,  Gmail etc) make sure secure package transfer ![[Pasted image 20260219225954.png]] only end points can de-crypt the data and see it. 
+###### ![[Pasted image 20260219230405.png]] ![[Pasted image 20260219230453.png]]
+###### Internet itself is the biggest WAN in the world
+## Router
+###### https://www.youtube.com/watch?v=zN8YNNHcaZc&list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM&index=18&t=4200s
