@@ -1,1 +1,3 @@
-"why not to write backend in c++"
+- Make a live chat room of autonomus conversion
+- Make a cowsay like software
+- 

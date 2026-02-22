@@ -3,3 +3,4 @@
 - "*If what you seek in life is truth, you may get comfort in the end ,but if all you seek is comfort you aren't going anywhere *"
 - "*Don't wait to be good enough to start thing just start*"
 - "A human being should be able to change a diaper, plan an invasion, butcher a hog, Conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equation, analyse a new problem,  pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialisation is for insects"
+- ""
