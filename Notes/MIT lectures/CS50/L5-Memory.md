@@ -34,6 +34,7 @@ FF=255
 ###### This is regarded as most difficult topic in c
 ###### It is unique feature of c. as it is very close to hardware.=>great powers comes with great responsibility
 ###### It is a variable Pointer which stores address of another variable.![[Pasted image 20260220193824.png]] * -> here, means this is pointer to this datatype![[Pasted image 20260220194051.png]] => access address of things in memory we can built things and link things together  => go to address => ![[Pasted image 20260220203436.png]]
+![[Pasted image 20260224225906.png]]
 ###### every time run this program get different address as it can be same or not.It is use to make data structures 1D, 2D and 3D.![[Pasted image 20260220200818.png]]
 ###### It is a big variable size as it is pointer because have large amount of memory need many bytes to represent.
 ###### Generally not print or write the value of memory address we generally use it to store memory address SO, can visuallize this as a arrow towards the variable.![[Pasted image 20260220201234.png]]
