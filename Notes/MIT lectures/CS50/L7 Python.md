@@ -232,4 +232,189 @@ def makeCube(n,m=0):   # make m optional argument
 makeCube(5)
 makeCube(3,4)
 ```
-https://www.youtube.com/watch?v=5Jppcxc1Qzc&t=5640s
+## List
+###### To know the length of list use len(list) ->go to docs
+```
+scores=[72,73,33]
+average=sum(scores)/len(scores)
+print(f"Average :{average}")
+
+from cs50 import get_int
+
+score=[]
+for i in range(3):
+	score=get_int("Score : ")
+	# score.append(score)
+	# OR WAY TO APPEND
+	scores+=[score]
+print(f"Average is {sum(scores)/len(scores)}")
+
+```
+![[Pasted image 20260304220812.png|219]] 
+```
+before=input("Before : ")
+print("After : ",end="")
+for c in before:  # hands 1 char at a time
+	print(c.upper(),end="")
+
+
+O/P :
+Before : sachin
+After : SACHIN
+```
+```
+before=input("Before : ")
+print("After : ",before.upper(),end="")
+
+```
+###### Can use library to enhance functionality of code like
+## Libraries
+###### To unlock more functionality. To take command line arguments by using module/libraries -> sys( i.e system module )
+```
+from sys import argv
+if len(argv)==2:
+	print(f"Hello, {argv[1]}")
+else:
+	print("Hello world")
+
+if len(argv)>2:
+	for i in range(len(argv)):
+		print(argv[i],end=" ")
+	# OR WAY
+	for arg in argv:
+		print(arg,end=" ")
+
+O/P:
+python greet.py Harry 
+=> Hello Harry
+python greet.py
+=> Hello World 
+python greet.py 1 2 3 4 5 6 7 
+=> Hello World 
+=> greet.py 1 2 3 4 5 6 7 
+```
+###### Slice a list => `argv[1:]` will give a slice of list from index 1 to end.
+###### Exit Codes in python using sys
+```
+import sys   # import all things from sys can use anything in it
+if len(sys.argv)!=2:
+	print("./exit.py <partmeter1>")
+	sys.exit(1)
+	
+print(f"hello, {sys.argv[1]}")
+sys.exit(0)
+
+O/P :
+$ code exit.py
+$ python exit.py
+./exit.py <partmeter1>
+$ echo $?
+1 
+$ python exit.py David
+hello, David
+$ echo $?
+0 
+```
+###### search and sort are automatic
+```
+form sys import exit
+names = ["Anna","Bill","Sachin","Ron","Harry","Percy","Ron","George"]
+name = input("Name : ")
+for n in name:      # linear search
+	if name == n:
+		print("Found")
+		exit(0)
+print("Not found")
+exit(1)
+
+
+# OR WAY
+if name.lowe in names: # Linear search
+	print("Found")
+	exit(0)
+print("Not found")
+exit(1)
+```
+![[Pasted image 20260305215529.png|160]]
+###### Phone book => dictionary
+```
+peoples=dict()
+# or
+peoples={
+	"Name":"+0120 23 929",
+	"David":"+9298 27 622",
+	"Carter":"+29 277372 62"
+}
+name=input("Name : ")
+if name in people:  # search if name is as key in names
+	number = people[name]
+	print(f"Number : {numbers}")
+```
+###### search are made particular good in so it brings near to constant time O(1). It will optimise.
+###### Compare string
+```
+s=input("s: ")
+t=input("s: ")
+
+if s==t:
+	print("Same")
+else:
+	print("Differnet")
+```
+###### ![[Pasted image 20260306201514.png|203]] It does automatically(it check character by character).In C it gives different always buz it compares pointer of two strings.
+```
+s=input("s: ")
+t=s.capaitalize()
+print(f"s: {s}\nt: {t}")
+# s and t are different as string are immutable
+```
+```
+# SWAP
+x=1
+y=2
+
+print(f"x : {x}, y : {y}")
+x,y = y,x    # swaped
+print(f"x : {x}, y : {y}")
+```
+###### Put name and numbers in CSV file=> import csv and read docs of it.
+```
+ @ phonebook.csv
+ name,number
+ 
+```
+```
+import csv
+
+with open("phonebook.csv","a") as fs:
+	name =input("Name :")
+	name =int(input("Number :")
+	
+	writer =csv.writer(file) # treat this file as csv file 
+	writer.writerow([name,number])  # if someone swaped name and number coloum
+	# OR
+	writer =csv.DictWriter(file,fieldnames=["name","number"]) # figure out bases on first line
+	writer.writerow("name":name,"number",number)
+	
+```
+![[Pasted image 20260306202729.png|186]]
+###### More libraries
+###### pyttsx3 : python text to speech
+```
+import pyttsx3
+engine=pyttsx3.init() # initialize this library
+name =input("Name : ")
+engine.say(f"Hello, {name}")
+engine.runAndWait()  # run and wait it speech finished
+```
+![[Pasted image 20260306203424.png|207]]![[Pasted image 20260306203510.png|223]]
+###### os -> operating system related functionality
+```
+import os
+import qrcode
+
+img=qrcode.make("https://youtu.be/xvFZjo5PG0")
+img.save("qr.png","PNG") # save the image as protable network graphic(PNG)
+os.system("open qr.png")
+```
+![[Pasted image 20260306203833.png|367]] 

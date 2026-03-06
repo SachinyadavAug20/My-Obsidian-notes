@@ -70,4 +70,36 @@
 ###### ![[Pasted image 20260219230405.png]] ![[Pasted image 20260219230453.png]]
 ###### Internet itself is the biggest WAN in the world
 ## Router
-###### https://www.youtube.com/watch?v=zN8YNNHcaZc&list=PLWKjhJtqVAbn21gs5UnLhCQ82f923WCgM&index=18&t=4200s
+![[Pasted image 20260303203948.png|697]]
+![[Pasted image 20260303204106.png]]
+###### To create a LAN distance must be short --> called as Campus area network(CAN) it is special type of LAN. Can also connect this by WAN![[Pasted image 20260303204421.png|286]]
+###### Which is more secure "WAN with VPN" or "LAN/CAN" ? LAN is more secure.
+
+###### ![[Pasted image 20260303204733.png]] "private WAN" done using dedicated lines ![[Pasted image 20260303204837.png]]
+###### LAN->switch and WAN->router ==> We cannot create a WAN using traditional switch device
+![[Pasted image 20260303210533.png|697]]
+## Router
+###### The main task of the router is to connect different networks.The location of these networks does not matter. ![[Pasted image 20260303210825.png|580]]
+###### router can allow communication between LAN 1 and LAN 2
+######  Different cables of router are connected to different networks ![[Pasted image 20260303211036.png|311]]
+###### Dividing this computers into units increases order
+## ISP( Internet service provider )
+###### Internet cable we got from the ISP
+![[Pasted image 20260303211538.png]]
+###### It is responsible for the transmission of packages from 1 location to another![[Pasted image 20260303211810.png]]
+###### Router distributed around the world are controlled by this ISP.
+######  Each ISP is responsible for specific router.
+###### ISPs represent companies that enable us to connect to the internet for money.There are millions of ISP connected together
+###### Local ISP : Responsible for small area communication ![[Pasted image 20260303220353.png|171]] .local ISP offices called as Point of presence(POP) ![[Pasted image 20260303220524.png|380]]
+###### There are routers and other devices in This POP ![[Pasted image 20260303220642.png|530]]
+![[Pasted image 20260303224242.png|465]]
+![[Pasted image 20260303224343.png|469]] This POP's connect many local neighbour ![[Pasted image 20260303224801.png|441]] ![[Pasted image 20260303224849.png|445]]![[Pasted image 20260303225019.png|243]] ![[Pasted image 20260303225207.png|412]]
+###### Local ISP connect to Regional ISP not to other local ISP directly as this will break the hierarchy of ISP(not to make a web(complexity increases) make a tree(organised))
+![[Pasted image 20260303225708.png|310]]![[Pasted image 20260303225915.png|363]]![[Pasted image 20260303225938.png|536]]
+###### Some companies provide fast connect to there region be directly connecting ![[Pasted image 20260303230546.png|650]]
+![[Pasted image 20260303230943.png|476]]![[Pasted image 20260303231032.png|226]]![[Pasted image 20260303231508.png|435]] Path for the message is decided on the way ![[Pasted image 20260303231616.png|326]] ![[Pasted image 20260303231644.png|371]]
+###### ![[Pasted image 20260303231713.png]] to provide efficient and faster service to the costumer![[Pasted image 20260303231823.png|314]]![[Pasted image 20260303231904.png|167]]
+###### Google sometime finds its communication with users slow. -> solution is peering ==>Google establishes an almost direct connection with the user![[Pasted image 20260303232131.png|200]]
+###### Due to peering the packet pass through mush less POP(security increases) ![[Pasted image 20260303232423.png|260]] due to ![[Pasted image 20260303232505.png|188]] ![[Pasted image 20260303232557.png|324]] as it is not as strong as google. Udemy doesn't does peering
+###### Global ISP-> are international communication.
+###### If have a lot of money start a global ISP company is a good idea makes big profit as they are internet backbone. ![[Pasted image 20260303234547.png|285]] You can directly connect to ![[Pasted image 20260303234629.png]] can connect to regional or global ISP directly.
