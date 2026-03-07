@@ -1,2 +1,2 @@
-[[Intro]]
+[[Notes/Programing/Godot/Intro]]
 [[GDScript]]
