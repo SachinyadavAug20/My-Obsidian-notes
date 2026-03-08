@@ -158,4 +158,40 @@ GROUP BY
 ![[Pasted image 20260307202937.png]]
 ###### It is very destructive operation in SQL. If did `DELETE FROM favorite;` delete all rows from database
 ###### There are other more complex database in the world. -> like IMDb (internet movie data base) It is millions of rows -> ![[Pasted image 20260307203704.png]]
-https://www.youtube.com/watch?v=zrCLRC3Ci1c&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=8&t=3840s
+###### This is a 6 table DB from IMDb. This is a entity relation diagram => each box is a table and arrow shows some relation.
+###### file `shows.db` => e.g shows is connected to genres table(can be one or more).why not add genres in shows table as a column? => then pick a genes for one id ,but movies are from multiple genres at the same time.(One to one relation) -->similar for rating => making relation
+###### In SQLite is a lite weight version of SQL for mobile apps and other small things
+
+```
+SQL data types
+BLOB      -> binary large object
+INTEGER   -> integer
+NUMBERIC  -> formated number yy/mm/dd
+REAL      -> float
+TEXT      -> strings
+...
+```
+###### To protect from cells can be ,like in previous table we did added a "SQL" and "SPOT" as language and problem but left the time column null.If time column is make TEXT NOT NULL then this behaviour is prevented 
+```
+NOT NULL    -> cells can't be NULL
+UNIQUE      -> very row in column is unique
+```
+###### Primary key for a table is some column of the table.![[Pasted image 20260308171002.png|205]]
+######  ![[Pasted image 20260308175034.png|273]] peoples and shows table connected by stares table
+![[Pasted image 20260308181714.png]]
+![[Pasted image 20260308182129.png]] It combines query and order of operation is followed here.
+![[Pasted image 20260308182347.png]]
+![[Pasted image 20260308182444.png]]
+###### How to know how to get all movies from Steve Carell 
+![[Pasted image 20260308190045.png]]
+![[Pasted image 20260308190804.png]]
+![[Pasted image 20260308190946.png]]
+###### To know all genres of a show ![[Pasted image 20260308191204.png|375]] `JOIN` It is powerful keyword in SQL ![[Pasted image 20260308193718.png]] ![[Pasted image 20260308194549.png]]
+###### Join distributed data together by using. SQL queries
+###### ![[Pasted image 20260308195300.png]] can do implicit joint ![[Pasted image 20260308195605.png]] 
+###### Can % symbol to say in string after it 0 or more characters ![[Pasted image 20260308200139.png]]
+## Indexes
+###### For frequently used data can be indexes.Make new column for index it and get frequent access. This are searched linearly.
+`.timer on` show time taken by each query ![[Pasted image 20260308201540.png|365]]
+https://www.youtube.com/watch?v=zrCLRC3Ci1c&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=10&t=6390s
+###### 
