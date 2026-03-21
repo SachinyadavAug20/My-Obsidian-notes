@@ -20,6 +20,3 @@ We can also enable [**Local View**](https://docs.blender.org/manual/en/4.5/edit
 ![[Pasted image 20260319081537.png]]
 A **.blend** is a file extension that contains scenes, materials, animation data and much more. It is capable of storing external data by [**packing**](https://docs.blender.org/manual/en/latest/files/blend/packed_data.html) data like images (textures).
 ![[Pasted image 20260319081722.png]]
-
-
-https://studio.blender.org/training/blender-fundamentals-45-lts/blender_4-5_lts_3d-cursor/
