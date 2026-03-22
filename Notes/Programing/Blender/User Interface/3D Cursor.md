@@ -12,3 +12,4 @@ There are multiple [**snapping options**](https://docs.blender.org/manual/en/4.
 #### [Mini assignment](https://studio.blender.org/training/blender-fundamentals-45-lts/blender_4-5_lts_3d-cursor/#mini-assignment)
 
 Create a single stack of Suzanne (  **Monkey**), going from big at the bottom to small at the top. Use the Transform tools or shortcut `G`, `R`, and `S` to achieve this and orbit around to make sure it could potentially stay upright. First, use `Shift + C` (or use the pie-menu **`Shift + S` > Cursor to World Origin** to snap the **3D Cursor** to the center of the world (which is 0.0.0) and add a plane. Now you can start stacking **Suzanne**!
+
