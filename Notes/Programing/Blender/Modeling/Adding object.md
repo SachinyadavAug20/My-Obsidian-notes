@@ -1,0 +1,6 @@
+Open a new Blender File and select all `A` and delete the selection using `X` or `Del`.
+
+Add a  **Circle** and at the bottom of the **3D Viewport** is an [**"Operator"**](https://docs.blender.org/manual/en/latest/interface/operators.html) -panel to change different aspects of the mesh. We can change the number of vertices to easily create a "hex" shape.
+
+Delete the **Circle** and add a  **UV Sphere**. It has different parameters that we can change. We can type values manually instead of using the mouse. We can also do math inside of parameters to, for instance, divide the segments by 4 using `16/4` and `Enter` to confirm. Not only that, but we can also multiply using `*` by a certain value.
+<�p>When using an operator, it will create a small panel with parameters before working on them, It is better to change the scale, radius, and other parameters this way before starting to work. It is recommended to add various objects and learn how to adjust them before working on the object in <�strong> <�i class="b-icon b-icon-v405 b-icon-v405-editmode_hlt" data-click-to-clipboard="true"><�/i> Edit Mode<�/strong>.<�/p> <�hr>

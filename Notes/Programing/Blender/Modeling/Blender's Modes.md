@@ -29,4 +29,4 @@ This allows for painting with any color and is mainly used in shading, but can a
 Using `Ctrl + Tab` will open a pie-menu, just like the snapping options in the previous chapter, but with different functionalities. First  **Sculpt Mode**. Notice how the Toolbar changes and a new **"Asset Shelf"** at the bottom pops up. You can select brushes in the Toolbar or in the Asset Shelf. Using a **"Grab"** brush (`G`) we can stretch out Suzanne's ears or change the mouth. For this video, we are working with a drawing tablet that makes it easier to do this. In the **"Sculpting"** chapter, we will go in-depth.
 
 ---
-[studio.blender.org/training/blender-fundamentals-45-lts/blender_4-5_lts_adding-objects/](https://studio.blender.org/training/blender-fundamentals-45-lts/blender_4-5_lts_adding-objects/)
+
