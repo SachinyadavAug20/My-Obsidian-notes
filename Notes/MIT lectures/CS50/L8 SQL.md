@@ -193,5 +193,4 @@ UNIQUE      -> very row in column is unique
 ## Indexes
 ###### For frequently used data can be indexes.Make new column for index it and get frequent access. This are searched linearly.
 `.timer on` show time taken by each query ![[Pasted image 20260308201540.png|365]]
-https://www.youtube.com/watch?v=zrCLRC3Ci1c&list=PLhQjrBD2T380F_inVRXMIHCqLaNUd7bN4&index=10&t=6390s
-###### 
+###### By indexing can reach log search time
