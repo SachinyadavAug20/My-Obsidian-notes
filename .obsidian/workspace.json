@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "2dcaf59a93114a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f249758837d24d38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c225ca12ce94ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Programing/JSMastery/MasterJS course/13.Next themes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13.Next themes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cda84a2669a43f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1916a5e9408800bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01114c3a9db83fe4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3cc4b7f705b91314",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "66e4233d2d5007c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "24a476fa4ce87945",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76890942878a8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337b6b7a214c52df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Programing/webdev/NextJS/5.Layouts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5.Layouts"
+            }
+          },
+          {
+            "id": "ce973fbaa4354505",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Programing/webdev/NextJS/5.Layouts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5.Layouts"
+            }
+          },
+          {
+            "id": "5a9f4709c8230129",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "612291589ed3758d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "20c737781a3dea48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Programing/webdev/NextJS/5.Layouts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5.Layouts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "41c225ca12ce94ba",
+  "lastOpenFiles": [
+    "Notes/Programing/JSMastery/MasterJS course/12.Rendering.md",
+    "Notes/Programing/JSMastery/MasterJS course/13.Next themes.md",
+    "Pasted image 20260412184343.png",
+    "Pasted image 20260412184003.png",
+    "Pasted image 20260412183719.png",
+    "Pasted image 20260412183651.png",
+    "Pasted image 20260412183501.png",
+    "Pasted image 20260412182924.png",
+    "Pasted image 20260412182203.png",
+    "Pasted image 20260412181430.png",
+    "Pasted image 20260412181312.png",
+    "Pasted image 20260412180918.png",
+    "Notes/Programing/JSMastery/MasterJS course/11.Server and client components.md",
+    "Notes/Programing/Blender/0.Blender Models I made/curves.blend@",
+    "Notes/Programing/Blender/2.Modeling/9.Creating Curves.md",
+    "Notes/Programing/Blender/0.Blender Models I made/curves.blend1",
+    "Notes/Programing/Blender/0.Blender Models I made/curves.blend",
+    "Notes/Programing/JSMastery/MasterJS course/10.route.md",
+    "Notes/Programing/JSMastery/Untitled.md",
+    "Notes/Programing/JSMastery/MasterJS course/9.Assets and metadata setup.md",
+    "Notes/Programing/JSMastery/MasterJS course/8.Font setup.md",
+    "Notes/Programing/JSMastery/MasterJS course/7.tailwind setup.md",
+    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend@",
+    "Notes/Programing/Blender/2.Modeling/8.Delete, separate, merge & connect.md",
+    "Notes/Programing/JSMastery/MasterJS course/6.Basic setup.md",
+    "016 - Git & GitHub Setup_.@hmaracollege.mp4",
+    "016 - Git & GitHub Setup_.@hmaracollege 1.mp4",
+    "Notes/Programing/JSMastery/MasterJS course/5.Ways to make Next JS application.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/14.SEO optimization.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/13.API routes.md",
+    "Notes/Programing/JSMastery/MasterJS course/4.How web works.md",
+    "Notes/Programing/Blender/2.Modeling/7.Loop Cuts.md",
+    "Notes/Programing/Blender/2.Modeling/6.Bevel Tool.md",
+    "Notes/Programing/Blender/2.Modeling/5.Knife tool.md",
+    "Notes/Programing/Blender/2.Modeling/4.Extruding.md",
+    "Notes/Programing/Blender/2.Modeling/3.Blender's Modes.md",
+    "Notes/Programing/Blender/2.Modeling/0.File Recovery.md",
+    "Notes/Programing/Blender/2.Modeling/2.Mess selection.md",
+    "Notes/Programing/Blender/2.Modeling/1.Adding object.md",
+    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend1",
+    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/12.Partial pre-rendering.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/11.Server side rendering (SSR).md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/10.Static site generation (SSG).md",
+    "Notes/Programing/JSMastery/CRUD/Memories",
+    "Notes/Programing/JSMastery/MasterJS course"
+  ]
+}
