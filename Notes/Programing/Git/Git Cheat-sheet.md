@@ -63,3 +63,12 @@
 - A **remote repository** is a version of your Git repository hosted on a server (like GitHub, GitLab, or Bitbucket).
 - git remote add origin <rope-URL>  //`origin` is the default name for the remote rep
 Note : treat remote(origin) as a normal branch which is just on a server
+
+
+
+add everything expect one file :
+git add -A
+git reset -- main/dontcheckmein.txt
+
+
+
