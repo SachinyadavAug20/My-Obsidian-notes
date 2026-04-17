@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MIT lectures/Mathematics for computer/lecture 2) Contradiction and Induction.md",
+                "file": "Notes/MIT lectures/CS50/L8 SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture 2) Contradiction and Induction"
+              "title": "L8 SQL"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1a58854d23be9b3",
@@ -151,6 +150,20 @@
               "icon": "lucide-list",
               "title": "Outline of Diwali Holidays"
             }
+          },
+          {
+            "id": "3049732ed1db74bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -173,10 +186,9 @@
   "active": "6b2d7c162da3ddcb",
   "lastOpenFiles": [
     "Notes/MIT lectures/CS50/L9 HTML,CSS and JS.md",
+    "Notes/Programing/Blender/2.Modeling/9.Creating Curves.md",
     "Notes/Programing/JSMastery/MasterJS course/15.Authentication.md",
-    "Notes/Thoughts/Quotes.md",
     "Pasted image 20260417181815.png",
-    "Notes/MIT lectures/CS50/L8 SQL.md",
     "Pasted image 20260417180630.png",
     "Pasted image 20260417180520.png",
     "Pasted image 20260417180223.png",
@@ -186,6 +198,10 @@
     "Pasted image 20260417175123.png",
     "Pasted image 20260417174952.png",
     "Pasted image 20260417174759.png",
+    "Notes/Programing/Blender/2.Modeling/10.modifiers.md",
+    "Notes/MIT lectures/Mathematics for computer/lecture 2) Contradiction and Induction.md",
+    "Notes/Thoughts/Quotes.md",
+    "Notes/MIT lectures/CS50/L8 SQL.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/projects.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/9.fetch content.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/8.loading UIs.md",
@@ -205,10 +221,6 @@
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/1.Intro.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)",
     "Notes/Programing/JSMastery/MasterJS course/9.Assets and metadata setup.md",
-    "Notes/Programing/JSMastery/MasterJS course/8.Font setup.md",
-    "Notes/Programing/JSMastery/MasterJS course/7.tailwind setup.md",
-    "Notes/Programing/JSMastery/MasterJS course/6.Basic setup.md",
-    "Notes/Programing/JSMastery/MasterJS course/5.Ways to make Next JS application.md",
     "Notes/Programing/Blender/0.Blender Models I made/modifers.blend1",
     "Notes/Programing/Blender/0.Blender Models I made/modifers.blend",
     "Notes/Programing/Blender/0.Blender Models I made/glass.blend1",
