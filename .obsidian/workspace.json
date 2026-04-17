@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "2dcaf59a93114a44",
+    "id": "eaf0fad871d9da7f",
     "type": "split",
     "children": [
       {
-        "id": "f249758837d24d38",
+        "id": "2ddfc796bf90e03f",
         "type": "tabs",
         "children": [
           {
-            "id": "41c225ca12ce94ba",
+            "id": "6b2d7c162da3ddcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programing/JSMastery/MasterJS course/13.Next themes.md",
+                "file": "Notes/MIT lectures/Mathematics for computer/lecture 2) Contradiction and Induction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.Next themes"
+              "title": "lecture 2) Contradiction and Induction"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9cda84a2669a43f2",
+    "id": "8e0969ed900270dc",
     "type": "split",
     "children": [
       {
-        "id": "1916a5e9408800bc",
+        "id": "bb3d62f3336fbb9d",
         "type": "tabs",
         "children": [
           {
-            "id": "01114c3a9db83fe4",
+            "id": "8b5d8875649ba902",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "3cc4b7f705b91314",
+            "id": "a8c9e529661fce44",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "66e4233d2d5007c6",
+            "id": "d0f8d5c71e6df8cd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +82,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "24a476fa4ce87945",
+    "id": "c1a58854d23be9b3",
     "type": "split",
     "children": [
       {
-        "id": "d76890942878a8e4",
+        "id": "c8a5b66c1079e1d2",
         "type": "tabs",
         "children": [
           {
-            "id": "337b6b7a214c52df",
+            "id": "15a5e6003c787e2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Programing/webdev/NextJS/5.Layouts.md",
+                "file": "Notes/Programing/Neovim/Advent of vim/Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 5.Layouts"
+              "title": "Backlinks for Day 2"
             }
           },
           {
-            "id": "ce973fbaa4354505",
+            "id": "56ab9c255d562239",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Programing/webdev/NextJS/5.Layouts.md",
+                "file": "Notes/Daily Diary/Diwali Holidays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5.Layouts"
+              "title": "Outgoing links from Diwali Holidays"
             }
           },
           {
-            "id": "5a9f4709c8230129",
+            "id": "2949b8d58143c876",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,32 +138,18 @@
             }
           },
           {
-            "id": "612291589ed3758d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "20c737781a3dea48",
+            "id": "c235d4539687d842",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Programing/webdev/NextJS/5.Layouts.md",
+                "file": "Notes/Daily Diary/Diwali Holidays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 5.Layouts"
+              "title": "Outline of Diwali Holidays"
             }
           }
         ]
@@ -184,53 +170,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "41c225ca12ce94ba",
+  "active": "6b2d7c162da3ddcb",
   "lastOpenFiles": [
-    "Notes/Programing/JSMastery/MasterJS course/12.Rendering.md",
-    "Notes/Programing/JSMastery/MasterJS course/13.Next themes.md",
-    "Pasted image 20260412184343.png",
-    "Pasted image 20260412184003.png",
-    "Pasted image 20260412183719.png",
-    "Pasted image 20260412183651.png",
-    "Pasted image 20260412183501.png",
-    "Pasted image 20260412182924.png",
-    "Pasted image 20260412182203.png",
-    "Pasted image 20260412181430.png",
-    "Pasted image 20260412181312.png",
-    "Pasted image 20260412180918.png",
-    "Notes/Programing/JSMastery/MasterJS course/11.Server and client components.md",
-    "Notes/Programing/Blender/0.Blender Models I made/curves.blend@",
-    "Notes/Programing/Blender/2.Modeling/9.Creating Curves.md",
-    "Notes/Programing/Blender/0.Blender Models I made/curves.blend1",
-    "Notes/Programing/Blender/0.Blender Models I made/curves.blend",
-    "Notes/Programing/JSMastery/MasterJS course/10.route.md",
-    "Notes/Programing/JSMastery/Untitled.md",
-    "Notes/Programing/JSMastery/MasterJS course/9.Assets and metadata setup.md",
-    "Notes/Programing/JSMastery/MasterJS course/8.Font setup.md",
-    "Notes/Programing/JSMastery/MasterJS course/7.tailwind setup.md",
-    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend@",
-    "Notes/Programing/Blender/2.Modeling/8.Delete, separate, merge & connect.md",
-    "Notes/Programing/JSMastery/MasterJS course/6.Basic setup.md",
-    "016 - Git & GitHub Setup_.@hmaracollege.mp4",
-    "016 - Git & GitHub Setup_.@hmaracollege 1.mp4",
-    "Notes/Programing/JSMastery/MasterJS course/5.Ways to make Next JS application.md",
+    "Notes/MIT lectures/CS50/L9 HTML,CSS and JS.md",
+    "Notes/Programing/JSMastery/MasterJS course/15.Authentication.md",
+    "Notes/Thoughts/Quotes.md",
+    "Pasted image 20260417181815.png",
+    "Notes/MIT lectures/CS50/L8 SQL.md",
+    "Pasted image 20260417180630.png",
+    "Pasted image 20260417180520.png",
+    "Pasted image 20260417180223.png",
+    "Pasted image 20260417180034.png",
+    "Pasted image 20260417175651.png",
+    "Pasted image 20260417175519.png",
+    "Pasted image 20260417175123.png",
+    "Pasted image 20260417174952.png",
+    "Pasted image 20260417174759.png",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/projects.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/9.fetch content.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/8.loading UIs.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/7.Error Handling.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/6.Route Group.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/5.Layouts.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/4.Routing.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/4.Client component.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/3.Server components.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/2.Start.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/14.ShadCN setup.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/14.SEO optimization.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/13.API routes.md",
-    "Notes/Programing/JSMastery/MasterJS course/4.How web works.md",
-    "Notes/Programing/Blender/2.Modeling/7.Loop Cuts.md",
-    "Notes/Programing/Blender/2.Modeling/6.Bevel Tool.md",
-    "Notes/Programing/Blender/2.Modeling/5.Knife tool.md",
-    "Notes/Programing/Blender/2.Modeling/4.Extruding.md",
-    "Notes/Programing/Blender/2.Modeling/3.Blender's Modes.md",
-    "Notes/Programing/Blender/2.Modeling/0.File Recovery.md",
-    "Notes/Programing/Blender/2.Modeling/2.Mess selection.md",
-    "Notes/Programing/Blender/2.Modeling/1.Adding object.md",
-    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend1",
-    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/12.Partial pre-rendering.md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/11.Server side rendering (SSR).md",
     "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/10.Static site generation (SSG).md",
-    "Notes/Programing/JSMastery/CRUD/Memories",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)/1.Intro.md",
+    "Notes/Programing/JSMastery/MasterJS course/NextJS(basic)",
+    "Notes/Programing/JSMastery/MasterJS course/9.Assets and metadata setup.md",
+    "Notes/Programing/JSMastery/MasterJS course/8.Font setup.md",
+    "Notes/Programing/JSMastery/MasterJS course/7.tailwind setup.md",
+    "Notes/Programing/JSMastery/MasterJS course/6.Basic setup.md",
+    "Notes/Programing/JSMastery/MasterJS course/5.Ways to make Next JS application.md",
+    "Notes/Programing/Blender/0.Blender Models I made/modifers.blend1",
+    "Notes/Programing/Blender/0.Blender Models I made/modifers.blend",
+    "Notes/Programing/Blender/0.Blender Models I made/glass.blend1",
+    "Notes/Programing/Blender/0.Blender Models I made/glass.blend",
+    "Notes/Programing/Blender/0.Blender Models I made/curves.blend1",
+    "Notes/Programing/Blender/0.Blender Models I made/curves.blend",
+    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend1",
+    "Notes/Programing/Blender/0.Blender Models I made/add_delete_mesh.blend",
     "Notes/Programing/JSMastery/MasterJS course"
   ]
 }

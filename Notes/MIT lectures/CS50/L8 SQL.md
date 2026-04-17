@@ -193,4 +193,27 @@ UNIQUE      -> very row in column is unique
 ## Indexes
 ###### For frequently used data can be indexes.Make new column for index it and get frequent access. This are searched linearly.
 `.timer on` show time taken by each query ![[Pasted image 20260308201540.png|365]]
-###### By indexing can reach log search time
+###### By indexing can reach log search time => tell data base in advance what will be searched
+![[Pasted image 20260417161231.png]] ==> ![[Pasted image 20260417161251.png]] => this will optimize searching and selecting on this indexed table --> it makes B-tree(more efficient data structure) ![[Pasted image 20260417161741.png]] (more children) as less height thus width more and thus fast optimized (width is very) ![[Pasted image 20260417162107.png]] 
+###### But can't index everything as it will require too much memory(space and time trade off)  
+## Mix languages
+###### It normal to use many language at once(html,css and JS). So, use SQL in python
+###### SQL is good candidate --> ![[Pasted image 20260417163547.png]] => to open DB in python ![[Pasted image 20260417165117.png]] ![[Pasted image 20260417165132.png]] => db.execute return a dictionary => it like data scientist ask question about there database
+## Attack
+###### when putting user data in query don't use f-string as user may write a query(hack and attack on the system) => user placeholder(?) same as we used %s in c. ![[Pasted image 20260417172823.png]]
+# Challenges in SQL
+### Race condition
+###### In big data base(very frequent search and inserts) there is race condition.As order of operation of important
+###### World record egg =>![[Pasted image 20260417173211.png]] people clicking on same time  ![[Pasted image 20260417173419.png]] if likes update and selected at same time so, will--> as independently executed lines so will be clash and count will be lost and wrong displayed ==>interpreted 
+=> like you and your friend open refrigerate and see no milk at early same time and so both independently brought milk so, now problem ->extra milk
+###### made independently decision based on present data, not knowing the data was in the process of changing
+###### solution is can lock or make a note ->![[Pasted image 20260417174555.png]] ,transaction are also feature of SQL ![[Pasted image 20260417174759.png]]=> makes statement atomic (either executed full or not executed) 
+# SQL injection attack
+###### ![[Pasted image 20260417175123.png]] -- is commit in SQL so, will ignore password and login happens ![[Pasted image 20260417175519.png]] => this is safe(?) syntax ,![[Pasted image 20260417175651.png]] => this is non-safe code by using f-string.consqunece 
+###### ![[Pasted image 20260417175123.png]] -- is commit in SQL so, will ignore password and login happens ![[Pasted image 20260417175519.png]] => this is safe(?) syntax ,![[Pasted image 20260417175651.png]] => this is non-safe code by using f-string.consqunece 
+###### ![[Pasted image 20260417175123.png]] -- is commit in SQL so, will ignore password and login happens ![[Pasted image 20260417175519.png]] => this is safe(?) syntax ,![[Pasted image 20260417175651.png]] => this is non-safe code by using f-string.consqunece 
+###### ![[Pasted image 20260417175123.png]] -- is commit in SQL so, will ignore password and login happens ![[Pasted image 20260417175519.png]] => this is safe(?) syntax ,![[Pasted image 20260417175651.png]] => this is non-safe code by using f-string.consqunece 
+###### ![[Pasted image 20260417175123.png]] -- is commit in SQL so, will ignore password and login happens ![[Pasted image 20260417175519.png]] => this is safe(?) syntax ,![[Pasted image 20260417175651.png]] => this is non-safe code by using f-string.consqunece 
+###### ![[Pasted image 20260417175123.png]] -- is commit in SQL so, will ignore password and login happens ![[Pasted image 20260417175519.png]] => this is safe(?) syntax ,![[Pasted image 20260417175651.png]] => this is non-safe code by using f-string. consequence  ![[Pasted image 20260417180223.png]]
+so by ? it will remove potentially symbol( ' ->\\' ) ![[Pasted image 20260417180520.png]]
+![[Pasted image 20260417180630.png]]

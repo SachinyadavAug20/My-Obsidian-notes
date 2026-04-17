@@ -8,7 +8,11 @@
   "outgoing-link": true,
   "tag-pane": true,
   "footnotes": false,
+<<<<<<< Updated upstream
   "properties": true,
+=======
+  "properties": false,
+>>>>>>> Stashed changes
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
