@@ -1,5 +1,6 @@
 # Neovim LSP & Workflow Shortcuts
 
+
 ## 1️⃣ LSP Shortcuts
 
 | Keybind      | Mode          | Action              | When to use                                  | Notes                                 |
