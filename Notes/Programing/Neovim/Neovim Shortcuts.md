@@ -114,3 +114,6 @@
 - LSP shortcuts only work if a **language server** is attached.  
 - Split navigation works in **any window**, including terminal splits.  
 - You can customize any keymap in `init.lua` for a VS Code-like workflow.
+![[Pasted image 20260502111045.png|697]]
+![[Pasted image 20260502111411.png]]
+![[Pasted image 20260502111432.png]]
