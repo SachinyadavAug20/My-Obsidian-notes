@@ -27,4 +27,11 @@ First image of internet was this 4 inter-connected computers
 ## HTTP/HTTPS(hyper text transfer protocol secure)
 ###### it is at beginning of every URL visited.It is most famous
 ###### web is a server running on the internet.
-###### 
+###### ![[Pasted image 20260601114201.png]] this are possible status code
+Can have search query and section
+can visit `safetyschool.org` --> redirects to `yale.edu`
+![[Pasted image 20260601114647.png]]
+HTTP and TCP and IP --> send data from one place other
+## HTML
+have only 2 things tags and attributes
+server is a program --> which response to request
