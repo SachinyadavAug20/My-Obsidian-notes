@@ -1,4 +1,4 @@
-[[0-Index]]
+[[0-NextJs]]
 [[2.History]]
 [[3.Intro to NEXTJS]]
 [[4.How web works]]

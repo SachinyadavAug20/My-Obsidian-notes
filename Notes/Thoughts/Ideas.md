@@ -2,3 +2,5 @@
 - Make a cowsay like software
 - Make a trons(multiplayer snake game where can win loss and tie) game
 - Make version control for blender
+- Make a app which gives dependency tree for what package you ask for
+- 
