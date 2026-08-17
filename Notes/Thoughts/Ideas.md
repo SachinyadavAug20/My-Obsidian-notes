@@ -3,4 +3,7 @@
 - Make a trons(multiplayer snake game where can win loss and tie) game
 - Make version control for blender
 - Make a app which gives dependency tree for what package you ask for
-- 
+- Make a minecraft account analyser(enter the gamertag and get status of that player).
+- habit tracker like github map and green and other color if did on that day(Advance todo list app).
+- make unhook extension
+- make a YT thumbnail preview
