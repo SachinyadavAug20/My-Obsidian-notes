@@ -19,3 +19,14 @@ Extras :
 
 
 129 -> Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
+
+
+
+---
+1. SIH26028 -> Dynamic Forecast of Expected Time of Arrival (ETA) for Coaching Trains.
+
+2. SIH26156 -> Universal Log Pre-processing Framework.
+
+3. SIH26103 -> Web-based Integrated Project Monitoring Platform
+
+4. SIH26075 -> Participants are invited to design and develop CAPACITY CONNECT A Digital Capacity Building and Learning Management Portal to support organizational training, competency development, and knowledge sharing through a centralized web-based platform.
