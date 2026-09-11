@@ -6,4 +6,5 @@
 - Make a minecraft account analyser(enter the gamertag and get status of that player).
 - habit tracker like github map and green and other color if did on that day(Advance todo list app).
 - make unhook extension
-- make a YT thumbnail preview
+- make a YT thumbnail preview(how looks on website)
+- make a pdf book reader website(alll features like read for me and highlight and save session etc features)
