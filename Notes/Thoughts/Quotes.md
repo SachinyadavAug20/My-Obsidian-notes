@@ -5,4 +5,5 @@
 - "A human being should be able to change a diaper, plan an invasion, butcher a hog, Conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equation, analyse a new problem,  pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialisation is for insects"
 - "When a measure becomes a target,it ceases to be a good measure" -goodhart's law
 - "When answers are cheap, questions are much more valueable"
+- "It doesn't make sense to continue wanting something if you're not willing to do what it takes to get it. If you don't want to live the lifestyle, then release yourself from the desire. To crave the result but not the process is to guarantee disappointment." - Atomic habites
 - 
