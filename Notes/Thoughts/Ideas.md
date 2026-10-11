@@ -10,4 +10,5 @@
 - make a pdf book reader website(alll features like read for me and highlight and save session etc features)
 - make text encryption by using bable's library as it is very robust https://www.youtube.com/watch?v=B-ul3b0lz-o
 - LLM steaming is done using SSE/HTTP => learn web-socket and make it using that so AI can initialize a conversation for it.(Like AI send good morning)
+- Make a vector embedding for game recommendation using java spring boot
 - 
