@@ -12,4 +12,4 @@
 - LLM steaming is done using SSE/HTTP => learn web-socket and make it using that so AI can initialize a conversation for it.(Like AI send good morning)
 - Make a vector embedding for game recommendation using java spring boot
 - Humans can't visualize more that 3 dimension fix that problem => hard motivation
-- 
+- Use SVG instead of text on webpage it will look better and better as SVG looks crisp and solid
