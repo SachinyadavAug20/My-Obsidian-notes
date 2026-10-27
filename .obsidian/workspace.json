@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Programing/languages/SpringBoot/8.CRUD project.md",
+                "file": "Notes/Programing/Concepts/LLD/18.Composite design pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.CRUD project"
+              "title": "18.Composite design pattern"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1a58854d23be9b3",
@@ -175,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,11 +189,16 @@
   },
   "active": "c7f87a5ccc1803d7",
   "lastOpenFiles": [
+    "Notes/Programing/Concepts/LLD/3.ULM Diagram.md",
+    "Notes/Programing/Concepts/LLD/4.SOLID design principles.md",
+    "Notes/Programing/Concepts/FDE and GenAI/0.Intro.md",
+    "Notes/Programing/Concepts/FDE and GenAI/attachement/Pasted image 20260921213238.png",
+    "Notes/Programing/Concepts/FDE and GenAI/attachement/Pasted image 20260921212506.png",
+    "Notes/Programing/languages/SpringBoot/8.CRUD project.md",
     "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260715181255.png",
     "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260715180101.png",
     "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260715163952.png",
     "Notes/Programing/languages/SpringBoot/7.Spring boot core.md",
-    "Notes/Programing/languages/SpringBoot/8.CRUD project.md",
     "Notes/Programing/Unity/Kitchen/intro.md",
     "Notes/Programing/Unity/Kitchen/attachement/Pasted image 20260714193558.png",
     "Notes/Programing/Unity/Kitchen/attachement",
@@ -200,13 +207,10 @@
     "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260713182741.png",
     "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260713182504.png",
     "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260713180800.png",
-    "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260713180629.png",
     "Notes/Programing/languages/SpringBoot/6.XML config.md",
     "Notes/Programing/Unity/31.New player.md",
     "Notes/Programing/languages/SpringBoot/5.Bean lifecycle.md",
     "Notes/Programing/languages/SpringBoot/4.Circular Dependency.md",
-    "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260710210607.png",
-    "Notes/Programing/languages/SpringBoot/attachement/Pasted image 20260710210547.png",
     "Notes/Programing/Unity/30.Art.md",
     "Notes/Programing/Unity/29.Developer.md",
     "Notes/Programing/languages/SpringBoot/3.Spring core intro.md",
@@ -229,8 +233,6 @@
     "Notes/Programing/languages/java/notes.pdf",
     "Notes/Programing/languages/java/attachement/notes.pdf",
     "Notes/Programing/languages/java/33.Atomic variable.md",
-    "Notes/Programing/Unity/21.more level.md",
-    "Notes/Programing/Unity/16.level building.md",
     "Notes/Programing/Unity/attachement",
     "Notes/Programing/Unity"
   ]
