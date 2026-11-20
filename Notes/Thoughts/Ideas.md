@@ -16,4 +16,5 @@
 - Learn by asking things => make a website where a people can upload PDF of book and use RAG pipeline to answer any question from the book
 - Make a MCP server to make reel and edit short form content using AI following pattern
 - make drawing app but, will have better feature so any laptop user with a track pad can draw thing using there finger simple and easily like a professional.(solving a real problem)
--  
+- "Good game is not good visuals it is good architecture and design" -GTA6
+- 
