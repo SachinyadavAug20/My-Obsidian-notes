@@ -6,4 +6,5 @@
 - "When a measure becomes a target,it ceases to be a good measure" -goodhart's law
 - "When answers are cheap, questions are much more valueable"
 - "It doesn't make sense to continue wanting something if you're not willing to do what it takes to get it. If you don't want to live the lifestyle, then release yourself from the desire. To crave the result but not the process is to guarantee disappointment." - Atomic habites
+- ![[Pasted image 20261128124639.png]]
 - 
